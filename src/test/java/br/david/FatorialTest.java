@@ -14,7 +14,7 @@ public class FatorialTest {
 
 	@Test
 	public void testUm() {
-		int resultado = Fatorial.calcular(2);
+		int resultado = Fatorial.calcular(1);
 		assertEquals(resultado, 1, 0.0);
 	}
 
